@@ -1,0 +1,11 @@
+{
+  "name": "sortable-accumulator",
+  "version": "1.0.0",
+  "description": "Utility class to keep track of items so you can rank them",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Randall Koutnik",
+  "license": "MIT"
+}
